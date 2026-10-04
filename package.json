@@ -1,6 +1,6 @@
 {
   "name": "@gbesse/jev-hatvp-action-scope",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Classe les actions déclarées par les représentants d’intérêts sans inférer d’influence non documentée.",
   "type": "module",
   "license": "MIT",
